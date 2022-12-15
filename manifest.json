@@ -1,7 +1,7 @@
 {
-	"name": "Outline+",
-	"version": "2.0",
-	"manifest_version": 2,
+	"name": "12ft Ladder",
+	"version": "1.0",
+	"manifest_version": 1,
 	"icons": { 	"16": "apple-icon-180x180.png",
 				"48": "apple-icon-180x180.png",
 				"128": "apple-icon-180x180.png" },
@@ -13,6 +13,6 @@
 	],
 	"browser_action":{
 	"default_popup": "button.html",
-	"default_title": "Outline!"
+	"default_title": "12ft Ladder!"
 	}
 }
