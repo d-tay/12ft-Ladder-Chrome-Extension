@@ -1,6 +1,5 @@
 # 12ft-Ladder-Browser-Extension
-Should work on Chrome and Brave
-A button that utilizes 12ft.io to bypass paywalls
+Should work on Chrome and Brave. A button that utilizes 12ft.io to bypass paywalls
 
 Visit 12ft.io !
 
