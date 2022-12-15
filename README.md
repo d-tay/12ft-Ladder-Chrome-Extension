@@ -1,7 +1,7 @@
-# Outline-Chrome-Extension
-A button that utilises outline.com
+# 12ft-Ladder-Chrome-Extension
+A button that utilizes 12ft.io
 
-Visit outline.com!
+Visit 12ft.io !
 
 -------------------------------
 Steps to install this extension
