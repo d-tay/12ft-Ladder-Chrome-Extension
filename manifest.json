@@ -1,7 +1,7 @@
 {
 	"name": "12ft Ladder",
 	"version": "1.0",
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"icons": { 	"16": "apple-icon-180x180.png",
 				"48": "apple-icon-180x180.png",
 				"128": "apple-icon-180x180.png" },
